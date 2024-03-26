@@ -1,1 +1,3 @@
-# End-to-End_GCP_Employee_Churn_Project
+# End-to-End ML Project - Employee Churn Analysis
+
+## **Tools used:** Python, BigQuery, Colab, Looker Studio, Google Sheets
