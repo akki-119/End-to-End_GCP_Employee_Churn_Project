@@ -6,7 +6,7 @@
 Addressing employee retention issues by proactively identifying individuals at risk of leaving the organization.
 
 ### Approach:
-Implement a pilot program focusing on new employees. Develop an AutoML model trained on historical data to forecast employee churn.
+Implement a pilot program focusing on new employees. Develop a model using PyCaret, trained on historical data to forecast employee churn.
 
 ### Deliverables:
 - Report with clear recommendations.
