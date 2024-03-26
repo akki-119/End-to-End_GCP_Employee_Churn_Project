@@ -1,5 +1,5 @@
 # End-to-End Employee Churn Prediction Project using Google Technologies
-**-------------------------------------------------------------------------------------------------**
+
 ### Tools used: Python, BigQuery, Google Colab, PyCaret, Looker Studio, Google Sheets
 -------------------------------------------------------------------------------------------------
 ### Objective:
